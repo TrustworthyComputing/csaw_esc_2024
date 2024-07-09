@@ -26,4 +26,4 @@ during the live finals that take place on November 6-9. Teams are responsible to
 The report, powerpoint and poster presentations should include a description of your setup and tools that you used, a brief overview of the challenges and a detailed account of how you solved the challenges. The report is expected to provide details an all challenges, including any challenge flags and sample inputs used to get the flag. The powerpoint and poster can focus on a subset of challenges that best show your ingeinuity. All materials must be in English.
 
 <!-- A description of grading criteria can be found
-[here](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Challenge_Description.md#competition-phase-evaluation-and-grading-policies). -->
+[here](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Challenge_Description.md#competition-phase-evaluation-and-grading-policies). -->
