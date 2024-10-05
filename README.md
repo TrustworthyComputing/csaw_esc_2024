@@ -1,5 +1,3 @@
-### \*\*Qual submission deadline extended to September 23rd\*\*
-
 CSAW 2024 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
