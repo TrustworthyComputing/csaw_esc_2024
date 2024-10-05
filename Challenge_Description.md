@@ -5,7 +5,7 @@ This year's challenge focuses on **side channel attacks** (SCA) on cyber-physica
 
 ## Challenge structure
 
-The ESC24 competition is divided into three phases:
+The ESC24 competition is divided into two phases:
 
 1. A preliminary **qualification phase**, where teams must compile and submit a short written report. The report discussing side channel attacks applicable to CPS related to manufacturing, different attack approaches, and different mitigations that can be put in place to prevent side channel leakage. This includes examples of attacks, how one could perform the attacks, and mitigations for the described attacks.
 
@@ -37,6 +37,6 @@ The final phase will be graded as follows:
  This years competition focus on side channel attacks on the cyber-physical system. Therefore solutions that involve reverse engineering of the flag, ROP programming or modification of hex files will not be accepted.**
 
 
-<!--You can refer to the [deliverables page](deliverables.md) for more details on the qualification and final phase deliverables, and the [Final Phase page](Final_Phase.md) for details about how to get started with this year's challenges.  -->
+You can refer to the [deliverables page](deliverables.md) for more details on the qualification and final phase deliverables, and the [Final Phase page](Final_Phase.md) for details about how to get started with this year's challenges.
 
 To find more information regarding how to register and participate, click [here](logistics.md).

@@ -5,6 +5,7 @@ CSAW 2024 Embedded Security Challenge (ESC)
 ## Quick Links
 
 * [Hardware Tutorial:](https://drive.google.com/file/d/1DRpB7Qy6YpE_sjXaRERW-EI_ULjzWqRX/view?usp=drive_link) __Warning(!) Do not connect the 12 Volt power supply to the Arduino board while it is connected to a computer via USB -- this will damage the computer port. The power supply should only be connected to the motor shield (with the jumper removed) as shown in the video.__
+* [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Final_Phase.md)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/deliverables.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Challenge_Description.md)
@@ -20,9 +21,9 @@ ESC 2024 will be held in four regions: US-Canada, Europe, and India, with the fi
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Charles Gouert and Rostin Shokri, who are also the US-Canada region challenge leads.
-In Europe, the competition is organized by Professor David Hely (Grenoble INP), Amir-Pasha Mirbaha (Grenoble INP), and Ihab Alshaer (Université Grenoble Alpes).
-In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Suraj Mandal and Dipesh  as the regional challenge lead.
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Rostin Shokri, and Omar Ahmed, who are also the US-Canada region challenge leads.
+In Europe, the competition is organized by Professor David Hely (Grenoble INP), and Amir-Pasha Mirbaha (Grenoble INP).
+In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Dipesh as the regional challenge lead.
 
 ## Challenge Summary
 This year's ESC focuses on side channel attacks (SCA) on cyber-physical systems (CPS). Cyber-physical systems are used by hundreds of industries and in many critical infrastructure systems. If these systems are not properly setup they can leak information even if they are using cryptographically secure software. This year, the challenge is inspired by manufacturing processes, and the teams are invited to investigate a range of SCAs on an Arduino based CPS system.
