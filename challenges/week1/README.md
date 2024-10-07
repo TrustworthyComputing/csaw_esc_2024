@@ -9,7 +9,7 @@ Welcome to Week 1 of the ESC2024 challenges! Prepare yourself for an exciting ad
 
 You decided to go to a pub in New York named “Normal or though” in the upper west side, a quality restaurant. You hope to have great food based on a quirky recommendation. You were told to order a peculiar food that rarely anyone orders, but the waiter brings you the food after only one minute, and you are surprised by the quick response. As soon as you finish your food, the waiter gives you an arduino, for you to pay and give a quality review. The waiter leaves and you notice that you are the only one left in a quiet room. Then you have a realization...
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week1/FriendlyDisposition.jpeg" alt="" align="left" width="250" height="175" title="Friendly Dispositon">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week1/FriendlyDisposition.jpg" alt="" align="left" width="250" height="175" title="Friendly Dispositon">
 
 ### Friendly Dispostion (200 points)
 
