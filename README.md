@@ -2,7 +2,8 @@ CSAW 2024 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
 
-* [Hardware Tutorial:](https://drive.google.com/file/d/1DRpB7Qy6YpE_sjXaRERW-EI_ULjzWqRX/view?usp=drive_link) __Warning(!) Do not connect the 12 Volt power supply to the Arduino board while it is connected to a computer via USB -- this will damage the computer port. The power supply should only be connected to the motor shield (with the jumper removed) as shown in the video.__
+* [!! Week 1 Challenges Released](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week1) 
+* [!! Hardware Tutorial:](https://drive.google.com/file/d/1DRpB7Qy6YpE_sjXaRERW-EI_ULjzWqRX/view?usp=drive_link) ⚠️ __Warning(!) ⚠️ Do not connect the 12 Volt power supply to the Arduino board while it is connected to a computer via USB -- this will damage the computer port. The power supply should only be connected to the motor shield (with the jumper removed) as shown in the video.__
 * [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Final_Phase.md)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/deliverables.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/logistics.md#competition-deadlines)
