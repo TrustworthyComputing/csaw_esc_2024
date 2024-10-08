@@ -14,6 +14,6 @@ The Servo motor is connected to Servo2 port of the motor shield for this test. T
 
 The serial port, with a baud rate of 115200, will print out messages at the beginning and end of the motor test.
 
-In addition to the ESC hardware video, information about the stepper motor wiring can be found [here](https://drive.google.com/file/d/1DRpB7Qy6YpE_sjXaRERW-EI_ULjzWqRX/view?usp=drive_link).
+In addition to the ESC hardware video, information about the stepper motor wiring can be found [here](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-stepper-motors).
 
 <img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/hardware_test/BoardSetup.jpg" alt="CsawESC2024Board" align="center"  title="Csaw ESC 2024 Board Setup" width="500" height="350"><img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/hardware_test/barreljack_doNOTuse.jpg" alt="DoNotUseBarrelJack" align="center"  title="Do Not Use the Barrel Jack Connector"  width="500" height="350">
