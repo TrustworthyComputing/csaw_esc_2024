@@ -9,6 +9,7 @@ CSAW 2024 Embedded Security Challenge (ESC)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Challenge_Description.md)
 * [csaw.io/esc](https://www.csaw.io/esc)
+* [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/finalists.md)
 
 ## Overview
 
