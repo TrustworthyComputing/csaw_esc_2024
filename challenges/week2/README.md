@@ -10,7 +10,7 @@ Can you leak information about what is being printed based on the remote sensor 
 The files you will need for both challenges are located [here](https://drive.google.com/drive/folders/14gBlku2bCVUA2k1cQIpFVMTqTW1WjPwP). You do not need the arduino hardware for this week's challenges. 
 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dPrinters.jpg" alt="" align="left" width="250" height="200" title="KeyRing">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dPrinters.jpg" alt="" align="left" width="250" height="240" title="KeyRing">
 
 
 ### KeyRing 1 (400 points)
