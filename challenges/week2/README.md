@@ -15,4 +15,4 @@ In this challenge, your goal is to deduce which key is currently being printed a
 
 ###  KeyRing 2 (600 points)
 
-Now the key manufacturing is producing a new key that does not match any of your current samples. Can you reproduce an image of the key and the bitting information? Use the data form KeyRing 1 to help you out.
+Now the key manufacturing is producing a new key that does not match any of your current samples. However, you were able to get several recording samples of this key across two different printers. Can you reproduce an image of the key and the bitting information? Use the data form KeyRing 1 to help you out.
