@@ -2,9 +2,9 @@
 
 <img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dPrinters.jpg" alt="" align="left" width="250" height="200" title="KeyRing1">
 
-Welcome to Week 2! For this week, you will be given a meta challenge for side channels on 3D printers. 
+Welcome to Week 2! For this week, the goal is to analyze side channel leakage from 3D printers. 
 
-In this scenario, you gained physical access to KeyCorp, a key manufacturing site.
+In our scenario, you gained physical access to KeyCorp, a key manufacturing site.
 There, you were able to embed a microphone and vibration sensor, which you can remote into, to collect information on their 3D printers.
 You also were able to collect several known prints before evacuating the scene.
 Can you leak information about what is being printed based on the remote sensor readings?
