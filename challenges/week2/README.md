@@ -1,5 +1,7 @@
 ## Week 2 Challenges
 
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dPrinters.jpg" alt="" align="left" width="250" height="200" title="KeyRing1">
+
 Welcome to Week 2! For this week, you will be given a meta challenge for side channels on 3D printers. 
 
 In this scenario, you gained physical access to KeyCorp, a key manufacturing site.
@@ -10,7 +12,7 @@ Can you leak information about what is being printed based on the remote sensor 
 The files you will need for both challenges are located [here](https://drive.google.com/drive/folders/14gBlku2bCVUA2k1cQIpFVMTqTW1WjPwP). You do not need the arduino hardware for this week's challenges. 
 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dPrinters.jpg" alt="" align="left" width="250" height="200" title="KeyRing1">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dFactory.png" alt="" align="left" width="250" height="250" title="KeyRing2">
 
 
 ### KeyRing 1 (400 points)
@@ -18,7 +20,6 @@ The files you will need for both challenges are located [here](https://drive.goo
 In this challenge, your goal is to deduce which key is currently being printed at KeyCorp. For each of the 40 samples, classify them belonging to Key A, B, C, or D. The data you collected onsite will be helpful.
 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/3dFactory.png" alt="" align="left" width="250" height="200" title="KeyRing2">
 
 ###  KeyRing 2 (600 points)
 
