@@ -1,6 +1,6 @@
-## Week 2 Challenges
+## Week 3 Challenges
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week2/submarine.jpg" alt="" align="left" width="250" height="200" title="KeyRing1">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/challenges/week3/submarine.jpg" alt="" align="left" width="250" height="350" title="KeyRing1">
 
 Welcome to Week 3! For this week, we return to the Arduino Boards for some more motor challenges. 
 
