@@ -14,3 +14,5 @@ You decided to go to a pub in New York named “Normal Or Though” in the upper
 ### Friendly Disposition (200 points)
 
 In the heart of a bustling metropolis, a renowned cybersecurity firm, The Sequence Syndicate, has been tasked with securing the city's critical infrastructure against a series of sophisticated cyber-attacks. The attackers, known only as Malicious Disposition, have left behind a trail of encrypted messages that seem to follow mysterious patterns. Decode the sequences and figure out what message the attackers are trying to communicate.
+
+*Hint: Especially for Phase 4, be sure to listen to the motor movements* 
