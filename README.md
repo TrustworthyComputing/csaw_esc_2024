@@ -2,6 +2,7 @@ CSAW 2024 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
 
+* [!! Week 4 Challenges (Final Week) Released](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week4)
 * [!! Friendly Disposition Hint Given](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week1) 
 * [!! Week 3 Challenges Released](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week3) 
 * [!! Week 2 Challenges Released (No arduino board needed).](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week2) 
