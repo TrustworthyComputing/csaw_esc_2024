@@ -1,3 +1,6 @@
+### **Final reports due Nov 4 on HotCRP
+
+
 CSAW 2024 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
