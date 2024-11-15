@@ -1,10 +1,8 @@
-### **Final reports due Nov 4 on HotCRP
-
-
 CSAW 2024 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
 
+* [Finalists Leaderboard posted](https://github.com/TrustworthyComputing/csaw_esc_2024/blob/main/Finals-Leaderboard.md)
 * [!! Lizzy Hint Given](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week3) 
 * [!! Week 4 Challenges (Final Week) Released](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week4)
 * [!! Friendly Disposition Hint Given](https://github.com/TrustworthyComputing/csaw_esc_2024/tree/main/challenges/week1) 
