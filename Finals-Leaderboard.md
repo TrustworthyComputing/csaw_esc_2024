@@ -4,7 +4,7 @@
 ### 1st Place: __Yellow Hackets__ - Georgia Institute of Technology
   * Tracy Guo 
   * Henry Bui
-` * Shayan Aqeel
+  * Shayan Aqeel
   * Smit Patel 
   * Kevin Thompson _(Faculty Advisor)_
 ### 2nd Place: __SigPwny__ - University of Illinois Urbana-Champaign
@@ -47,4 +47,4 @@
 ## ESC 2024 India Leaderboard (Pending)
 
 -----------
-_Note:_ Sol
+_Note:_ Technical points/solved challenges are consistent among different regions.
