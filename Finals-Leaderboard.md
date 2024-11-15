@@ -46,5 +46,4 @@
 
 ## ESC 2024 India Leaderboard (Pending)
 
------------
-_Note:_ Technical points/solved challenges are consistent among different regions.
+
