@@ -44,6 +44,18 @@
   * Tomasz Lisowski
   * Marius Muench _(Faculty Advisor)_
 
-## ESC 2024 India Leaderboard (Pending)
+## ESC 2024 India Leaderboard
 
+### 1st Place: __InfoSecIITR__ - Indian Institute of Technology Roorkee
+  * Parth Badgujar
+  * Ayush Goyal
+  * Bhavishay Bharti
+  * Pratham Agarwal
+  * Rahul Thakur _(Faculty Advisor)_
 
+### 2nd Place: __SDSLabs__ - Indian Institute of Technology Roorkee
+  * Khushal Agrawal
+  * Kundan Kumar
+  * Ujjwal Sharma
+  * Varun R Mallya
+  * Manoj Misra _(Faculty Advisor)_
