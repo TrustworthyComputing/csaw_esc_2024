@@ -35,7 +35,7 @@ The following teams have qualified to the final round (in random order):
 
 
 ## Europe:
-- Hackcess **IUT-Roanne**: Hypno, Tensheli, Gmx.0x1, Alvi (Adivos: Pierre-Jean Matichard)
+- Hackcess **IUT-Roanne**: Hypno, Tensheli, Gmx.0x1, Alvi (Advisor: Pierre-Jean Matichard)
 - TheRomanXpl0it **Sapienza University of Rome; Tor Vergata University of Rome; Luiss University of Rome**:
   Kristjan Tarantelli, Milena Mangiola, Lorenzo Colombini, Francesco Bianchi (Advisor: Emilio Coppa)
 - Th3Os **University of Piraeus, Democritus University of Thrace, University of Macedonia**:
