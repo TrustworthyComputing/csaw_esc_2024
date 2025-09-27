@@ -20,7 +20,7 @@ CSAW 2024 Embedded Security Challenge (ESC)
 
 The Embedded Security Challenge (ESC) returns in 2024 for the 17<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
-ESC 2024 will be held in four regions: US-Canada, Europe, and India, with the finals taking place on 6-9 November 2024.
+ESC 2024 will be held in three regions: US-Canada, Europe, and India, with the finals taking place on 6-9 November 2024.
 
 -   **CSAW US-Canada**: NYU Tandon School of Engineering, Brooklyn, USA.
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
